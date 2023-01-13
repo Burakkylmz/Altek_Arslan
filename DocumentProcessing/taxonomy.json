@@ -1,0 +1,775 @@
+﻿{
+  "DataContractVersion": "1.1",
+  "DocumentTypes": [
+    {
+      "DocumentTypeId": "NoGroup.NoCategory.Arslan",
+      "Group": "",
+      "Category": "",
+      "Name": "Arslan",
+      "OptionalUniqueIdentifier": "",
+      "TypeField": {
+        "FieldId": "NoGroup.NoCategory.Arslan.DocumentType",
+        "FieldName": "Document Type"
+      },
+      "Fields": [
+        {
+          "FieldId": "NoGroup.NoCategory.Arslan.Alloy",
+          "FieldName": "Alloy",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#038a18"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "a"
+            }
+          ]
+        },
+        {
+          "FieldId": "NoGroup.NoCategory.Arslan.Temper",
+          "FieldName": "Temper",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#fa6616"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "e"
+            }
+          ]
+        },
+        {
+          "FieldId": "NoGroup.NoCategory.Arslan.Dimensions",
+          "FieldName": "Dimensions",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#8a97a0"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "m"
+            }
+          ]
+        },
+        {
+          "FieldId": "NoGroup.NoCategory.Arslan.Accordingto",
+          "FieldName": "According to",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#6eb84a"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "c"
+            }
+          ]
+        },
+        {
+          "FieldId": "NoGroup.NoCategory.Arslan.ElongationActual",
+          "FieldName": "Elongation Actual",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#e422cf"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "l"
+            }
+          ]
+        },
+        {
+          "FieldId": "NoGroup.NoCategory.Arslan.AlActual",
+          "FieldName": "Al Actual",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#0076ce"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "q"
+            }
+          ]
+        },
+        {
+          "FieldId": "NoGroup.NoCategory.Arslan.CrActual",
+          "FieldName": "Cr Actual",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#22c188"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "r"
+            }
+          ]
+        },
+        {
+          "FieldId": "NoGroup.NoCategory.Arslan.CuActual",
+          "FieldName": "Cu Actual",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#5f00ef"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "w"
+            }
+          ]
+        },
+        {
+          "FieldId": "NoGroup.NoCategory.Arslan.FeActual",
+          "FieldName": "Fe Actual",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#788cd0"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "y"
+            }
+          ]
+        },
+        {
+          "FieldId": "NoGroup.NoCategory.Arslan.MgActual",
+          "FieldName": "Mg Actual",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#2b8be3"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "g"
+            }
+          ]
+        },
+        {
+          "FieldId": "NoGroup.NoCategory.Arslan.MnActual",
+          "FieldName": "Mn Actual",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#b6ba6b"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "h"
+            }
+          ]
+        },
+        {
+          "FieldId": "NoGroup.NoCategory.Arslan.SiActual",
+          "FieldName": "Si Actual",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#84afeb"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "j"
+            }
+          ]
+        },
+        {
+          "FieldId": "NoGroup.NoCategory.Arslan.TiActual",
+          "FieldName": "Ti Actual",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#9586c5"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "k"
+            }
+          ]
+        },
+        {
+          "FieldId": "NoGroup.NoCategory.Arslan.ZnActual",
+          "FieldName": "Zn Actual",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#ba5065"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "z"
+            }
+          ]
+        },
+        {
+          "FieldId": "NoGroup.NoCategory.Arslan.RmActual",
+          "FieldName": "Rm Actual",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#dcdb60"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "x"
+            }
+          ]
+        },
+        {
+          "FieldId": "NoGroup.NoCategory.Arslan.Rp02Actual",
+          "FieldName": "Rp0.2 Actual",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#8660df"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "2"
+            }
+          ]
+        },
+        {
+          "FieldId": "NoGroup.NoCategory.Arslan.Fe",
+          "FieldName": "Fe",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#a8d550"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "v"
+            }
+          ]
+        },
+        {
+          "FieldId": "NoGroup.NoCategory.Arslan.Si",
+          "FieldName": "Si",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#e9659c"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "1"
+            }
+          ]
+        },
+        {
+          "FieldId": "NoGroup.NoCategory.Arslan.Cu",
+          "FieldName": "Cu",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#95b5ac"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "3"
+            }
+          ]
+        },
+        {
+          "FieldId": "NoGroup.NoCategory.Arslan.Mn",
+          "FieldName": "Mn",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#15dff6"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "4"
+            }
+          ]
+        },
+        {
+          "FieldId": "NoGroup.NoCategory.Arslan.Mg",
+          "FieldName": "Mg",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#d5aa97"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "5"
+            }
+          ]
+        },
+        {
+          "FieldId": "NoGroup.NoCategory.Arslan.Zn",
+          "FieldName": "Zn",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#e115af"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "6"
+            }
+          ]
+        },
+        {
+          "FieldId": "NoGroup.NoCategory.Arslan.Ti",
+          "FieldName": "Ti",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#7596ec"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "7"
+            }
+          ]
+        },
+        {
+          "FieldId": "NoGroup.NoCategory.Arslan.Cr",
+          "FieldName": "Cr",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#f04467"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "8"
+            }
+          ]
+        },
+        {
+          "FieldId": "NoGroup.NoCategory.Arslan.RmMin",
+          "FieldName": "Rm Min",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#1c50cd"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "9"
+            }
+          ]
+        },
+        {
+          "FieldId": "NoGroup.NoCategory.Arslan.Rp02Min",
+          "FieldName": "Rp0.2 Min",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#96e042"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "@"
+            }
+          ]
+        },
+        {
+          "FieldId": "NoGroup.NoCategory.Arslan.LotNumber",
+          "FieldName": "Lot Number",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#9032ff"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "#"
+            }
+          ]
+        },
+        {
+          "FieldId": "NoGroup.NoCategory.Arslan.Material",
+          "FieldName": "Material",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#7cb6ef"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "$"
+            }
+          ]
+        },
+        {
+          "FieldId": "NoGroup.NoCategory.Arslan.Weight",
+          "FieldName": "Weight",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#15b86e"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "%"
+            }
+          ]
+        },
+        {
+          "FieldId": "NoGroup.NoCategory.Arslan.OrderRef",
+          "FieldName": "Order/Ref",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#8a7ce3"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "^"
+            }
+          ]
+        },
+        {
+          "FieldId": "NoGroup.NoCategory.Arslan.AccordingTo2",
+          "FieldName": "According To 2",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#ca54ba"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "&"
+            }
+          ]
+        },
+        {
+          "FieldId": "NoGroup.NoCategory.Arslan.HardnessActual",
+          "FieldName": "Hardness Actual",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#90c3d6"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "*"
+            }
+          ]
+        },
+        {
+          "FieldId": "NoGroup.NoCategory.Arslan.HardnessMin",
+          "FieldName": "Hardness Min",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#b640c4"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "("
+            }
+          ]
+        },
+        {
+          "FieldId": "NoGroup.NoCategory.Arslan.ElongationMin",
+          "FieldName": "Elongation Min",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#df7c60"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": ")"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Groups": [],
+  "SupportedLanguages": [
+    {
+      "Name": "Undetermined Language",
+      "Code": "und"
+    },
+    {
+      "Name": "Bulgarian",
+      "Code": "bul"
+    },
+    {
+      "Name": "Cantonese",
+      "Code": "yue"
+    },
+    {
+      "Name": "Danish",
+      "Code": "dan"
+    },
+    {
+      "Name": "Dutch",
+      "Code": "nld"
+    },
+    {
+      "Name": "English",
+      "Code": "eng"
+    },
+    {
+      "Name": "French",
+      "Code": "fra"
+    },
+    {
+      "Name": "Georgian",
+      "Code": "kat"
+    },
+    {
+      "Name": "German",
+      "Code": "deu"
+    },
+    {
+      "Name": "Greek",
+      "Code": "ell"
+    },
+    {
+      "Name": "Hebrew",
+      "Code": "heb"
+    },
+    {
+      "Name": "Hindi",
+      "Code": "hin"
+    },
+    {
+      "Name": "Italian",
+      "Code": "ita"
+    },
+    {
+      "Name": "Japanese",
+      "Code": "jpn"
+    },
+    {
+      "Name": "Korean",
+      "Code": "kor"
+    },
+    {
+      "Name": "Macedonian",
+      "Code": "mkd"
+    },
+    {
+      "Name": "Mandarin",
+      "Code": "zho"
+    },
+    {
+      "Name": "Marathi",
+      "Code": "mar"
+    },
+    {
+      "Name": "Norwegian",
+      "Code": "nor"
+    },
+    {
+      "Name": "Polish",
+      "Code": "pol"
+    },
+    {
+      "Name": "Portuguese",
+      "Code": "por"
+    },
+    {
+      "Name": "Romanian",
+      "Code": "ron"
+    },
+    {
+      "Name": "Russian",
+      "Code": "rus"
+    },
+    {
+      "Name": "Serbian",
+      "Code": "srp"
+    },
+    {
+      "Name": "Spanish",
+      "Code": "spa"
+    },
+    {
+      "Name": "Swedish",
+      "Code": "swe"
+    },
+    {
+      "Name": "Telugu",
+      "Code": "tel"
+    }
+  ]
+}
